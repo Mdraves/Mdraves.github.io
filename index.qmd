@@ -1,11 +1,11 @@
 ---
 title: "Welcome"
 ---
+Hi! 
 
-This is a Quarto website.
+My name is Melissa Draves and I am a 2nd year Ph.D. student in the Flint-Garcia lab at the University of Missouri. My graduate work is focused on maize heirlooms (check out the projects tab to learn more). 
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+I am originally from Michigan, and moved to Ames, Iowa in 2018 to start my Bachelors of Science in Genetics. While at Iowa State University, I worked in the Kelley lab, mainly focused on auxin response in maize seedlings. 
 
-```{r}
 
-```
+![](Field-1.jpg)

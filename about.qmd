@@ -2,11 +2,19 @@
 title: "About"
 ---
 
-About this site
 
-```{r}
-"Hello"
 
-```
+Background: 
+
+
+
+Experience: 
+
+
+
+Future Goals: 
+
+
+
 
 ![](Draves-Headshot.jpg)
