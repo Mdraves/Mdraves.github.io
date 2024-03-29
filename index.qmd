@@ -2,7 +2,6 @@
 title: "Melissa Draves"
 about:
   template: jolla
-  image: mdraves-pic.jpg
   links:
     - icon: linkedin
       text: linkedin
@@ -11,6 +10,8 @@ about:
       text: Google Scholar
       href: https://scholar.google.com/citations?user=S-QdyQwAAAAJ&hl=en
 ---
+
+![](mdraves-pic.jpg)
 
 My name is Melissa Draves and I am a 2nd year Ph.D. student in the Flint-Garcia lab at the University of Missouri. My graduate work is focused on maize heirlooms (check out the projects tab to learn more).
 
