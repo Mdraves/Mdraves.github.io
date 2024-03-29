@@ -1,0 +1,31 @@
+{
+    "id": "6204E037",
+    "path": "~/GitHub/Mdraves.github.io/projects.qmd",
+    "project_path": "projects.qmd",
+    "type": "quarto_markdown",
+    "hash": "782971853",
+    "contents": "",
+    "dirty": false,
+    "created": 1711562091808.0,
+    "source_on_save": false,
+    "relative_order": 4,
+    "properties": {
+        "rmdVisualMode": "false",
+        "rmdVisualWrapConfigured": "true",
+        "source_window_id": "",
+        "Source": "Source",
+        "docOutlineVisible": "1",
+        "rmdVisualCollapsedChunks": "",
+        "cursorPosition": "23,17",
+        "scrollLine": "20",
+        "rmdVisualModeLocation": "1160:139.39393615722656"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1711564941,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1711564941488,
+    "read_only": false,
+    "read_only_alternatives": []
+}
