@@ -7,21 +7,27 @@ format:
 
 OrcID: 0000-0002-1668-2822
 
+# 2025: 
+
+Draves, M.A., Traylor, Z.B., Salazar-Vidal, M.N., Fitzsimmons, S.L., Flint-Garcia, S. (2025, submitted). Field Preparation and Planting Corn (Zea mays). Cold Spring Harbor Protocols.
+
+Salazar-Vidal, M.N., Draves, M.A., Fitzsimmons, S.L., Traylor, Z.B., Flint-Garcia, S. (2025, submitted). How to Harvest and Store Corn (Zea mays). Cold Spring Harbor Protocols. 
+
+Traylor, Z.B., Fitzsimmons, S.L., Draves, M.A., Salazar-Vidal, M.N., Tracy, W.F., Flint-Garcia, S. (2025, submitted). Planting, Pollinating, Monitoring Growth, and Harvesting Maize (Zea mays) for Research. Cold Spring Harbor Protocols. 
+
+Salazar-Vidal, M.N., Traylor, Z.B., Draves, M.A., Fitzsimmons, S.L., Tracy, W.F., Flint-Garcia, S. (2025, submitted). How to Monitor Growth and Identify Developmental Stages of Maize (Zea mays). Cold Spring Harbor Protocols.
+
+Fitzsimmons, S.L., Salazar-Vidal, M.N., Traylor, Z.B., Draves, M.A., Flint-Garcia, S. (2025, submitted). How to Pollinate Corn (Zea mays). Cold Spring Harbor Protocols. 
+
+
 # 2024:
 
 <div>
 
-Cowling, C.L., Homayouni, A., Callwood, J.B., McReynolds, M.R., Khor, J., Ke, H., Draves, M.A., Dehesh, K., Walley, J.W., Strader, L.C., Kelley, D.R. (2024). ZmPILS6 is an auxin efflux carrier required for maize root morphogenesis. PNAS. Biorxiv: [https://doi.org/10.1101/2023.08.01.551510](https://www.biorxiv.org/content/10.1101/2023.08.01.551510v1)
+Callwood J.B., Townsend E.G., Malik S., Draves M.A., Khor J., Marshall J.P., Sweers H., Cowling C.L., Walley J.W., Kelley D.R. (2024) Identification of phenotypic and transcriptomic signatures underpinning maize crown root systems. BioRxiv: [https://doi.org/10.1101/2024.08.20.608626.](https://www.biorxiv.org/content/10.1101/2024.08.20.608626v1)
 
-Draves, M.A., Traylor, Z.B., Salazar-Vidal, M.N., Fitzsimmons, S.L., Flint-Garcia, S. (2024, submitted). Field Preparation and Planting Corn (Zea mays). Cold Spring Harbor Protocols.
+Cowling, C.L., Homayouni, A., Callwood, J.B., McReynolds, M.R., Khor, J., Ke, H., Draves, M.A., Dehesh, K., Walley, J.W., Strader, L.C., Kelley, D.R. (2024). ZmPILS6 is an auxin efflux carrier required for maize root morphogenesis. PNAS. [10.1073/pnas.2313216121](https://pubmed.ncbi.nlm.nih.gov/38781209/)
 
-Salazar-Vidal, M.N., Draves, M.A., Fitzsimmons, S.L., Traylor, Z.B., Flint-Garcia, S. (2024, submitted). How to Harvest and Store Corn (Zea mays). Cold Spring Harbor Protocols. 
-
-Traylor, Z.B., Fitzsimmons, S.L., Draves, M.A., Salazar-Vidal, M.N., Tracy, W.F., Flint-Garcia, S. (2024, submitted). Planting, Pollinating, Monitoring Growth, and Harvesting Maize (Zea mays) for Research. Cold Spring Harbor Protocols. 
-
-Salazar-Vidal, M.N., Traylor, Z.B., Draves, M.A., Fitzsimmons, S.L., Tracy, W.F., Flint-Garcia, S. (2024, submitted). How to Monitor Growth and Identify Developmental Stages of Maize (Zea mays). Cold Spring Harbor Protocols.
-
-Fitzsimmons, S.L., Salazar-Vidal, M.N., Traylor, Z.B., Draves, M.A., Flint-Garcia, S. (2024, submitted). How to Pollinate Corn (Zea mays). Cold Spring Harbor Protocols. 
 
 </div>
 
