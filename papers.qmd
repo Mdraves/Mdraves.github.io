@@ -9,15 +9,15 @@ OrcID: 0000-0002-1668-2822
 
 # 2025: 
 
-Draves, M.A., Traylor, Z.B., Salazar-Vidal, M.N., Fitzsimmons, S.L., Flint-Garcia, S. (2025, submitted). Field Preparation and Planting Corn (Zea mays). Cold Spring Harbor Protocols.
+Draves, M.A., Traylor, Z.B., Salazar-Vidal, M.N., Fitzsimmons, S.L., Flint-Garcia, S. (2025, accepted). Field Preparation and Planting Corn (Zea mays). Cold Spring Harbor Protocols.
 
-Salazar-Vidal, M.N., Draves, M.A., Fitzsimmons, S.L., Traylor, Z.B., Flint-Garcia, S. (2025, submitted). How to Harvest and Store Corn (Zea mays). Cold Spring Harbor Protocols. 
+Salazar-Vidal, M.N., Draves, M.A., Fitzsimmons, S.L., Traylor, Z.B., Flint-Garcia, S. (2025, accepted). How to Harvest and Store Corn (Zea mays). Cold Spring Harbor Protocols. 
 
-Traylor, Z.B., Fitzsimmons, S.L., Draves, M.A., Salazar-Vidal, M.N., Tracy, W.F., Flint-Garcia, S. (2025, submitted). Planting, Pollinating, Monitoring Growth, and Harvesting Maize (Zea mays) for Research. Cold Spring Harbor Protocols. 
+Traylor, Z.B., Fitzsimmons, S.L., Draves, M.A., Salazar-Vidal, M.N., Tracy, W.F., Flint-Garcia, S. (2025, accepted). Planting, Pollinating, Monitoring Growth, and Harvesting Maize (Zea mays) for Research. Cold Spring Harbor Protocols. 
 
-Salazar-Vidal, M.N., Traylor, Z.B., Draves, M.A., Fitzsimmons, S.L., Tracy, W.F., Flint-Garcia, S. (2025, submitted). How to Monitor Growth and Identify Developmental Stages of Maize (Zea mays). Cold Spring Harbor Protocols.
+Salazar-Vidal, M.N., Traylor, Z.B., Draves, M.A., Fitzsimmons, S.L., Tracy, W.F., Flint-Garcia, S. (2025, accepted). How to Monitor Growth and Identify Developmental Stages of Maize (Zea mays). Cold Spring Harbor Protocols.
 
-Fitzsimmons, S.L., Salazar-Vidal, M.N., Traylor, Z.B., Draves, M.A., Flint-Garcia, S. (2025, submitted). How to Pollinate Corn (Zea mays). Cold Spring Harbor Protocols. 
+Fitzsimmons, S.L., Salazar-Vidal, M.N., Traylor, Z.B., Draves, M.A., Flint-Garcia, S. (2025, accepted). How to Pollinate Corn (Zea mays). Cold Spring Harbor Protocols. 
 
 
 # 2024:
