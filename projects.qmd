@@ -24,3 +24,25 @@ Due to the lack of directional selection on maize heirlooms, these populations r
 ![](illiniwek.jpg)
 
 :::
+
+::: {layout-ncol=3}
+
+![](gaspe_flint.jpg)
+
+![](OP row.jpg)
+
+![](heirloom_ears.jpg)
+:::
+
+::: {layout-ncol=3}
+
+![](heirloom_ear_at_harvest.jpg)
+
+
+![](palomero_toloqueno.jpg)
+
+
+![](pink_silks.jpg)
+
+
+:::
