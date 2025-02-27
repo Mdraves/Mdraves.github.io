@@ -21,7 +21,7 @@ website:
       - href: papers.qmd 
         text: Papers
         
-      - href: presentation.qmd
+      - href: presentations.qmd
         text: Presentations
         
 
