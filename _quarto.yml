@@ -20,8 +20,8 @@ website:
         
       - href: papers.qmd 
         text: Papers
-        
-      - href: presentation.qmd
+
+      - href: presentation.qmd 
         text: Presentations
         
 
