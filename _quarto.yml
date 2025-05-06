@@ -17,13 +17,13 @@ website:
         
       - href: projects.qmd 
         text: Projects
+      
+      - href: presentation.qmd
+        text: Presentations
         
       - href: papers.qmd 
         text: Papers
 
-      - href: presentation.qmd 
-        text: Presentations
-        
 
 format:
   html:
