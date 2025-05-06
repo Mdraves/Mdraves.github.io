@@ -19,12 +19,11 @@ Salazar-Vidal, M.N., Traylor, Z.B., Draves, M.A., Fitzsimmons, S.L., Tracy, W.F.
 
 Fitzsimmons, S.L., Salazar-Vidal, M.N., Traylor, Z.B., Draves, M.A., Flint-Garcia, S. (2025, accepted). How to Pollinate Corn (Zea mays). Cold Spring Harbor Protocols. 
 
+Callwood J.B., Townsend E.G., Malik S., Draves M.A., Khor J., Marshall J.P., Sweers H., Cowling C.L., Walley J.W., Kelley D.R. (2025). Identification of phenotypic and transcriptomic signatures underpinning maize crown root systems. Plant Phenomics. [https://doi.org/10.1016/j.plaphe.2025.100008](https://www.sciencedirect.com/science/article/pii/S2643651525000147?via%3Dihub)
 
 # 2024:
 
 <div>
-
-Callwood J.B., Townsend E.G., Malik S., Draves M.A., Khor J., Marshall J.P., Sweers H., Cowling C.L., Walley J.W., Kelley D.R. (2024). Identification of phenotypic and transcriptomic signatures underpinning maize crown root systems. BioRxiv: [https://doi.org/10.1101/2024.08.20.608626.](https://www.biorxiv.org/content/10.1101/2024.08.20.608626v1)
 
 Cowling, C.L., Homayouni, A., Callwood, J.B., McReynolds, M.R., Khor, J., Ke, H., Draves, M.A., Dehesh, K., Walley, J.W., Strader, L.C., Kelley, D.R. (2024). ZmPILS6 is an auxin efflux carrier required for maize root morphogenesis. PNAS. [10.1073/pnas.2313216121](https://pubmed.ncbi.nlm.nih.gov/38781209/)
 
