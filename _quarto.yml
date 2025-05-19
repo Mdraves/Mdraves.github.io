@@ -14,13 +14,13 @@ website:
 
       - href: about.qmd 
         text: Background
+
+      - href: presentations.qmd
+        text: Presentations
        
       - href: projects.qmd 
         text: Projects
-      
-      - href: presentations.qmd
-        text: Presentations
-      
+        
       - href: papers.qmd
         text: Papers
 
