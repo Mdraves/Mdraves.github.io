@@ -6,43 +6,36 @@ title: "Projects"
 
 My dissertation project is focused on characterizing maize heirlooms from the United States. Over the next three years, I will be working to create comprehensive data sets of almost 1000 maize heirlooms held in the USDA germplasm data base and various seed saver organizations.
 
-### What are maize heirlooms? 
+### What are maize heirlooms?
 
 Heirlooms are better known scientifically under the term landrace. Heirlooms are diverse populations that have traditionally been maintained through open pollination and are adapted to a particular region. Before the advent of modern maize hybrids, heirloom populations were used as a food source and livestock feed for the United States. Around the world, heirlooms have historically been used in culinary applications which continue into present day.
 
 ### Why study maize heirlooms?
 
-Due to the lack of directional selection on maize heirlooms, these populations retain a large amount of genetic diversity. This diversity can be an interesting opportunity for various germplasm resources. In addition, countries throughout the world have extensive data sets regarding their own maize heirlooms, while the United States currently has no comprehensive understanding of US heirlooms. Creating a systematic, comprehensive characterization of heirlooms from the United States will be a foundational public resource for the maize community. 
+Due to the lack of directional selection on maize heirlooms, these populations retain a large amount of genetic diversity. This diversity can be an interesting opportunity for various germplasm resources. In addition, countries throughout the world have extensive data sets regarding their own maize heirlooms, while the United States currently has no comprehensive understanding of US heirlooms. Creating a systematic, comprehensive characterization of heirlooms from the United States will be a foundational public resource for the maize community.
 
 ### Heirloom pictures from the field:
 
-::: {layout-ncol=3}
+::: {layout-ncol="3"}
 ![](strawberry.jpg)
 
 ![](brace.jpg)
 
 ![](illiniwek.jpg)
-
 :::
 
-::: {layout-ncol=3}
-
+::: {layout-ncol="3"}
 ![](gaspe_flint.jpg)
 
-![](OP row.jpg)
+![](OP%20row.jpg)
 
 ![](heirloom_ears.jpg)
 :::
 
-::: {layout-ncol=3}
-
+::: {layout-ncol="3"}
 ![](heirloom_ear_at_harvest.jpg)
-
 
 ![](palomero_toloqueno.jpg)
 
-
 ![](pink_silks.jpg)
-
-
 :::

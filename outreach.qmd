@@ -1,3 +1,38 @@
 ---
 title: "Presentations"
 ---
+
+::: {layout-ncol="2"}
+![Bradford Research Farm Career Day](FFA_day.jpg)
+
+
+![Third Place Poster at the University of Missouri Plant Research Symposium 2025](MUPR_25.jpg)
+
+:::
+
+::: {layout-ncol="2"}
+![Presenting at Science on Tap](science_on_tap.png)
+
+![First Place Graduate Student Presentation at the Corn Breeding Meeting 2025](CBR_25.jpg)
+:::
+
+::: {layout-ncol="3"}
+![Maize Meeting 2023 in St. Louis, MO](MM23.png)
+
+![Maize Meeting 2024 in Raleigh, NC](MM24.png)
+
+![Maize Meeting 2025 in St. Louis, MO](MM_25.jpg)
+
+:::
+
+::: {layout-ncol="2"}
+![Fall Demonstration Plot Outreach Event](demo_presentation.jpg)
+
+![Showcase at the University of Missouri](IPG.png)
+:::
+:::{layout-ncol="1"}
+
+![University of Missouri Plant Research Symposium 2024](MUPR.png)
+:::
+
+

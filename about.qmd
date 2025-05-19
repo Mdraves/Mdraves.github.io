@@ -6,123 +6,107 @@ I was born and raised in Midland, Michigan and was heavily involved in 4-H from 
 
 I have had a wide variety of experiences that have contributed to my interest in plant breeding:
 
-## Research Experience: 
+## Research Experience:
 
-::: {layout="[[35,65]]"}
+:::: {layout="[[35,65]]"}
 ![](um-logo.png)
 
 <div>
+
 \
-\justifying \noindent University of Missouri-Columbia 
-\
-\justifying \noindent Flint-Garcia Lab
-\
-\justifying \noindent Graduate Research Assistant
-\
-\justifying \noindent Maize heirlooms of the United States
-\
+\justifying \noindent University of Missouri-Columbia\
+\justifying \noindent Flint-Garcia Lab\
+\justifying \noindent Graduate Research Assistant\
+\justifying \noindent Maize heirlooms of the United States\
 \justifying \noindent August 2022 - present
+
 </div>
+::::
 
-:::
-
-::: {layout="[[35,65]]"}
+:::: {layout="[[35,65]]"}
 ![](isu-logo.png)
 
 <div>
-\justifying \noindent Iowa State University 
-\
-\justifying \noindent Kelley Lab
-\
-\justifying \noindent Undergraduate Research Assistant
-\
-\justifying \noindent Auxin response in maize seedling roots
-\
+
+\justifying \noindent Iowa State University\
+\justifying \noindent Kelley Lab\
+\justifying \noindent Undergraduate Research Assistant\
+\justifying \noindent Auxin response in maize seedling roots\
 \justifying \noindent January 2020 - May 2022
+
 </div>
+::::
 
-:::
-
-::: {layout="[[35,65]]"}
+:::: {layout="[[35,65]]"}
 ![](isu-logo.png)
+
 <div>
-\justifying \noindent Iowa State University 
-\
-\justifying \noindent Peterson Lab
-\
-\justifying \noindent Freshman Research Mentee
-\
-\justifying \noindent Transposon identification in maize
-\
+
+\justifying \noindent Iowa State University\
+\justifying \noindent Peterson Lab\
+\justifying \noindent Freshman Research Mentee\
+\justifying \noindent Transposon identification in maize\
 \justifying \noindent January 2019 - May 2019
+
 </div>
+::::
 
-:::
+## Work Experience:
 
-## Work Experience: 
-
-::: {layout="[[35,65]]"}
-![](isu-logo.png) 
+:::: {layout="[[35,65]]"}
+![](isu-logo.png)
 
 <div>
 
-\justifying \noindent Iowa State University (Kelley Lab)
-\
-\justifying \noindent Laboratory Technician
-\
-\justifying \noindent Ames, IA
-\
+\justifying \noindent Iowa State University (Kelley Lab)\
+\justifying \noindent Laboratory Technician\
+\justifying \noindent Ames, IA\
 \justifying \noindent May 2022 - July 2022
+
 </div>
+::::
 
-:::
-::: {layout="[[35,65]]"}
-
+:::: {layout="[[35,65]]"}
 ![](wyffels-logo.png)
+
 <div>
+
 \
 
-
-
-\justifying \noindent Wyffels Hybrids
-\
-\justifying \noindent Research and Development Intern
-\
-\justifying \noindent Geneseo, IL
-\
+\justifying \noindent Wyffels Hybrids\
+\justifying \noindent Research and Development Intern\
+\justifying \noindent Geneseo, IL\
 \justifying \noindent May 2021 - August 2021
-</div>
 
-:::
-::: {layout="[[35,65]]"}
+</div>
+::::
+
+:::: {layout="[[35,65]]"}
 ![](AA-logo.jpg)
 
 <div>
-\justifying \noindent Advanced Agrilytics
-\
-\justifying \noindent Precision Agronomy Intern
-\
-\justifying \noindent Champaign, IL
-\
+
+\justifying \noindent Advanced Agrilytics\
+\justifying \noindent Precision Agronomy Intern\
+\justifying \noindent Champaign, IL\
 \justifying \noindent May 2020 - August 2020
-</div>
 
-:::
-::: {layout="[[35,65]]"}
+</div>
+::::
+
+:::: {layout="[[35,65]]"}
 ![](wisco-logo.png)
+
 <div>
+
 \
-\justifying \noindent University of Wisconsin- Madison 
-\
-\justifying \noindent Field Corn Breeding Research Intern
-\
-\justifying \noindent Madison, WI
-\
+\justifying \noindent University of Wisconsin- Madison\
+\justifying \noindent Field Corn Breeding Research Intern\
+\justifying \noindent Madison, WI\
 \justifying \noindent May 2019 - August 2019
+
 </div>
-
-:::
-
+::::
 
 ::: {layout="[[1,1], [1]]"}
 ![University of Wisconsin-Madison (2019)](wisconsin.jpg)
