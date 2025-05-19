@@ -20,10 +20,9 @@ website:
       
       - href: presentations.qmd
         text: Presentations
-       
-      - href: papers.qmd 
+      
+      - href: papers.qmd
         text: Papers
-
 
 format:
   html:
