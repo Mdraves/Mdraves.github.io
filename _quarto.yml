@@ -15,15 +15,15 @@ website:
       - href: about.qmd 
         text: Background
 
-      - href: presentations.qmd
-        text: Presentations
-       
       - href: projects.qmd 
         text: Projects
         
       - href: papers.qmd
         text: Papers
-
+      
+      - href: outreach.qmd
+        text: Presentations
+        
 format:
   html:
     theme: sandstone
