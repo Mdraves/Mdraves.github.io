@@ -18,7 +18,7 @@ website:
       - href: projects.qmd 
         text: Projects
       
-      - href: presentation.qmd
+      - href: presentations.qmd
         text: Presentations
        
       - href: papers.qmd 

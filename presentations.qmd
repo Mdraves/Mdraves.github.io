@@ -17,7 +17,5 @@ title: "Presentations"
 :::
 
 ::: {layout-ncol="1"}
-
 ![Maize Meeting 2023 in St. Louis, MO](MM23.png)
-
 :::
