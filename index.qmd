@@ -12,7 +12,6 @@ about:
       href: https://scholar.google.com/citations?user=S-QdyQwAAAAJ&hl=en
 ---
 
-
 My name is Melissa Draves and I am a 3rd year Ph.D. candidate in the Flint-Garcia lab at the University of Missouri. My graduate work is focused on maize heirlooms (check out the projects tab to learn more).
 
 I am originally from Michigan, and moved to Ames, Iowa in 2018 to start my Bachelors of Science in Genetics. While at Iowa State University, I worked in the Kelley lab as an undergraduate researcher, where I mainly focused on auxin response in maize seedlings.
@@ -21,9 +20,4 @@ I am originally from Michigan, and moved to Ames, Iowa in 2018 to start my Bache
 
 Iowa State University \| Ames, IA \| B.S. in Genetics \| August 2018 - May 2022
 
-University of Missouri \| Columbia, MO \|  Ph.D. in Plant, Insect, and Microbial Sciences \| August 2022 - present
-
-
-
-
-
+University of Missouri \| Columbia, MO \| Ph.D. in Plant, Insect, and Microbial Sciences \| August 2022 - present
