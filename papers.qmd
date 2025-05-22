@@ -1,6 +1,6 @@
 ---
 title: "Papers"
-format: 
+
   html: 
     link-citations: true
 ---
