@@ -1,8 +1,6 @@
 ---
 title: "Papers"
-
-  html: 
-    link-citations: true
+link-citations: true
 ---
 
 OrcID: 0000-0002-1668-2822

@@ -2,6 +2,7 @@
 title: "Presentations"
 ---
 
+
 ::: {layout-ncol="2"}
 ![Bradford Research Farm Career Day](FFA_day.jpg)
 
