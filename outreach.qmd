@@ -2,6 +2,7 @@
 title: "Presentations"
 ---
 
+Below are pictures from select presentations including short talk, poster, and outreach presentations. Please refer to my CV on the home page for a full list of presentations. 
 
 ::: {layout-ncol="2"}
 ![Bradford Research Farm Career Day](FFA_day.jpg)
